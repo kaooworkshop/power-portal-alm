@@ -81,4 +81,4 @@ jobs:
           app-id: ${{ secrets.APPLICATION_ID }}
           client-secret: ${{ secrets.CLIENT_SECRET }}
           tenant-id: ${{ secrets.TENANT_ID }}
-          upload-path: portal/starter-portal
+          upload-path: ${{ runner.temp }}/portal/starter-portal
