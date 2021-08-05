@@ -1,0 +1,24 @@
+{
+  "name": "power-portal-alm",
+  "version": "1.0.0",
+  "description": "This project provides a starting point for applying ALM best practices to your Power Apps Portals projects. It adopts two major tenets:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaooworkshop/power-portal-alm.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaooworkshop/power-portal-alm/issues"
+  },
+  "homepage": "https://github.com/kaooworkshop/power-portal-alm#readme",
+  "devDependencies": {
+    "webpack": "^5.48.0",
+    "webpack-cli": "^4.7.2"
+  }
+}
